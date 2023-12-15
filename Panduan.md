@@ -5,5 +5,5 @@
 
 2. contoh code pada file coba.cfm
 3. Panduan cek link berikut
-   https://github.com/bennadel/JSONWebTokens.cfc
-   https://gist.github.com/atuttle/887610
+   https://github.com/bennadel/JSONWebTokens.cfc <br>
+   https://gist.github.com/atuttle/887610 <br>
